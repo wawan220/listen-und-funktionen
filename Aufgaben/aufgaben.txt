@@ -27,4 +27,4 @@ Erstellen Sie ein Programm das alle Teilaufaufgaben beinhaltet. Benutzer gibt
 für Liste 1 und Liste 2 nacheinander die Werte ein, die den Listen hinzugefügt
 werden sollen. Danach sollen die Funktionen aus Aufgaben 1-5
 einprogrammiert werden. Nutzen Sie die Ausgelagertenfunktionen für Ihre Lösung.
-Das Programm soll nach jedem durchlauf nach einer wiederhollung nachfragen.
+Das Programm soll nach jedem Durchlauf nach einer Wiederhollung nachfragen.
