@@ -1,0 +1,29 @@
+Aufgabe 1:
+Erstellen Sie eine Funktion summe, die
+    - eine gegebene Liste übernimmt,
+    - die Summe über alle Elemente berechnet und
+    - diese Summe an den Aufrufer zurück liefert.
+
+Aufgabe 2:
+Erstellen Sie eine Funktion, die die Anzahl aller geraden Zahlenwerte in der Liste
+zurückliefert.
+
+Aufgabe 3: 
+Erstellen Sie eine Funktion, die eine existierende Liste nach einem ebenfalls
+übergebenen Zahlenwert durchsucht.
+    - Zurück gegeben wird der Index.
+    - Wird der Wert nicht gefunden wird -1 zurück geliefert.
+
+Aufgabe 4:
+Erstellen Sie Funktion, die zwei Listen zusammenhängt. Die
+zusammenhängende Liste wird zurückgeliefert.
+
+Aufgabe 5:
+Erstellen Sie eine Funktion, die eine übergebene Zahl in eine existierende Liste
+aufsteigend einsortiert. Wir beginnen mit einer Liste der Länge 0.
+
+Aufgabe 6:
+Erstellen Sie ein Programm das alle Teilaufaufgaben beinhaltet. Benutzer gibt
+für Liste 1 und Liste 2 nacheinander die Werte ein, die den Listen hinzugefügt
+werden sollen. Danach sollen die Funktionen aus Aufgaben 1-5
+einprogrammiert werden. Nutzen Sie Funktionen für Ihre Lösung.
