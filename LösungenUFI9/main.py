@@ -12,10 +12,8 @@ mas=modul_array_summieren
 mgz=modul_anzahl_gerade
 mif=modul_index_finden
 
-
 liste1=[]
 liste2=[]
-
 
 while True:
     zahl1=int(input("gebe eine Zahl ein: \n> "))
@@ -24,7 +22,8 @@ while True:
 
     mes.sort_in(liste1,zahl1)
     mes.sort_in(liste2,zahl2)
-    liste3 =mls.sort_array(mlz.combine_list(liste1, liste2))
+
+    liste3 = mls.sort_array(mlz.combine_list(liste1, liste2))
     print("------------------------------------------")
     print(f"Liste 1: \t {liste1} \nSumme Liste 1: \t{mas.summe(liste1)} \nAnzahl gerader Zahlen: \t{mgz.cout_even(liste1)}")
     print("------------------------------------------")
