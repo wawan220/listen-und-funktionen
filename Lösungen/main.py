@@ -31,3 +31,4 @@ while True:
     print(f"Gesuchte Zahl {search} ist in der gemeinsamen sortierten liste unter index {mnis.search_for_index(liste3,search)} zu finden")
     if input("nocheine runde? (j/n): \n> ").lower()=="n":
         break
+
