@@ -19,7 +19,7 @@ Erstellen Sie eine Funktion, die zwei Listen zusammenhängt. Die
 zusammenhängende Liste wird zurückgeliefert.
 
 Aufgabe 5:
-Erstellen Sie eine funktion die, Die zusammenhängende Liste sortiert,
+Erstellen Sie eine funktion die, Die zusammengesetzte Liste sortiert,
 und diese zurückliefert
 
 Aufgabe 6:
