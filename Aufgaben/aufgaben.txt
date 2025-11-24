@@ -15,7 +15,7 @@ Erstellen Sie eine Funktion, die eine existierende Liste nach einem ebenfalls
     - Wird der Wert nicht gefunden wird -1 zurück geliefert.
 
 Aufgabe 4:
-Erstellen Sie Funktion, die zwei Listen zusammenhängt. Die
+Erstellen Sie eine Funktion, die zwei Listen zusammenhängt. Die
 zusammenhängende Liste wird zurückgeliefert.
 
 Aufgabe 5:
